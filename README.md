@@ -1,2 +1,2 @@
-# html
-Simple HTML starter kit
+# Dotch
+Bill splitting app
