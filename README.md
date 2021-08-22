@@ -1,2 +1,2 @@
 # Dotch
-Bill splitting app
+Pay bills with friends
